@@ -1,21 +1,59 @@
-# 💫 About Me:
-I'm a first year undergraduate at NSBM Green University<br>
+<div align="center">
+  <img src="./assets/profile-header.svg" alt="Sasith Isuru — Software Engineering undergraduate at NSBM Green University" width="100%" />
 
+  <br />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ckstr_arch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasith-isuru-b16258406/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ckstr_arch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasithisurutc@gmail.com) 
+  **Software Engineering · Open Source · Always Learning**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ckstr-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ckstr-arch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ckstr-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ckstr-arch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <a href="https://github.com/Ckstr-arch/TestENV"><img alt="Featured: NSBM SportsHub" src="https://img.shields.io/badge/FEATURED-SportsHub-BAF568?style=flat-square&labelColor=10202E&color=BAF568" /></a>
+  <a href="https://github.com/Ckstr-arch?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE-My%20Projects-10202E?style=flat-square&labelColor=23485D&color=10202E" /></a>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ckstr-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `01` / About me
+
+I'm **Sasith Isuru**, a Software Engineering undergraduate at **NSBM Green University, Sri Lanka**. I enjoy figuring out how things work, then building something useful with what I've learned.
+
+Most of my time goes into **backend development, databases, algorithms, and Linux tooling**. I'm also exploring **AI/ML** and the infrastructure behind real-world applications.
+
+### `02` / What I'm building
+
+| Project | What it is |
+| :--- | :--- |
+| **[NSBM SportsHub](https://github.com/Ckstr-arch/TestENV)** | A campus sports platform with club communities, tournaments, reservations, dashboards, and authenticator-based 2FA. Built with PHP, JavaScript, and MySQL/MariaDB. |
+| **Hosting & infrastructure lab** | Hands-on experiments with Linux, Docker, Apache virtual hosts, and web deployment. |
+
+### `03` / Tech I use
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-10202E?style=for-the-badge&logo=python&logoColor=BAF568)
+![Java](https://img.shields.io/badge/Java-10202E?style=for-the-badge&logo=openjdk&logoColor=BAF568)
+![C](https://img.shields.io/badge/C-10202E?style=for-the-badge&logo=c&logoColor=BAF568)
+![SQL](https://img.shields.io/badge/SQL-10202E?style=for-the-badge&logo=postgresql&logoColor=BAF568)
+![PHP](https://img.shields.io/badge/PHP-10202E?style=for-the-badge&logo=php&logoColor=BAF568)
+![JavaScript](https://img.shields.io/badge/JavaScript-10202E?style=for-the-badge&logo=javascript&logoColor=BAF568)
+![Bash](https://img.shields.io/badge/Bash-10202E?style=for-the-badge&logo=gnubash&logoColor=BAF568)
+
+**Tools & environment**
+
+![Git](https://img.shields.io/badge/Git-153244?style=for-the-badge&logo=git&logoColor=E8F2F6)
+![Docker](https://img.shields.io/badge/Docker-153244?style=for-the-badge&logo=docker&logoColor=E8F2F6)
+![Linux](https://img.shields.io/badge/Linux-153244?style=for-the-badge&logo=linux&logoColor=E8F2F6)
+![MariaDB](https://img.shields.io/badge/MariaDB-153244?style=for-the-badge&logo=mariadb&logoColor=E8F2F6)
+![Apache](https://img.shields.io/badge/Apache-153244?style=for-the-badge&logo=apache&logoColor=E8F2F6)
+![VS Code](https://img.shields.io/badge/VS_Code-153244?style=for-the-badge&logo=visualstudiocode&logoColor=E8F2F6)
+
+### `04` / Find me elsewhere
+
+<a href="https://linkedin.com/in/sasith-isuru-b16258406/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-10202E?style=for-the-badge&logo=linkedin&logoColor=BAF568" /></a>
+<a href="https://instagram.com/ckstr_arch"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-10202E?style=for-the-badge&logo=instagram&logoColor=BAF568" /></a>
+<a href="https://x.com/Ckstr_arch"><img alt="X" src="https://img.shields.io/badge/X-10202E?style=for-the-badge&logo=x&logoColor=BAF568" /></a>
+<a href="mailto:sasithisurutc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-10202E?style=for-the-badge&logo=gmail&logoColor=BAF568" /></a>
+
+---
+
+<div align="center">
+  <sub><code>~/ckstr-arch $</code> learn → build → improve</sub>
+</div>
