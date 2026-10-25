@@ -51,6 +51,7 @@ Most of my time goes into **backend development, databases, algorithms, and Linu
 <a href="https://instagram.com/ckstr_arch"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-10202E?style=for-the-badge&logo=instagram&logoColor=BAF568" /></a>
 <a href="https://x.com/Ckstr_arch"><img alt="X" src="https://img.shields.io/badge/X-10202E?style=for-the-badge&logo=x&logoColor=BAF568" /></a>
 <a href="mailto:sasithisurutc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-10202E?style=for-the-badge&logo=gmail&logoColor=BAF568" /></a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-BAF568?style=for-the-badge&logo=hackerrank&logoColor=0B1722)](https://www.hackerrank.com/profile/sasithisurutc2)
 
 ---
 
